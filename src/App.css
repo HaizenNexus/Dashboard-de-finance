@@ -183,6 +183,18 @@ button {
   margin-top: 20px;
 }
 
+.btn-reset {
+  background-color: #dc3545;
+  color: white;
+  margin-top: auto;
+}
+
+.month-selector select {
+  background: #252a41;
+  color: white;
+  border: 1px solid #4ecca3;
+}
+
 @media (max-width: 768px) {
   .dashboard {
     grid-template-columns: 1fr;
